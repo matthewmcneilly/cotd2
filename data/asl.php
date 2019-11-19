@@ -21,7 +21,7 @@ $_SESSION['item'][0]['filename'] = 'data/images/asl/image1.png';
 $_SESSION['item'][0]['rating'] = 0;
 
 $_SESSION['item'][1]['name'] = 'asl-and-redhat';
-$_SESSION['item'][1]['rank'] = 1;
+$_SESSION['item'][1]['rank'] = 2;
 $_SESSION['item'][1]['caption'] = 'Ammeon Solutions & Red Hat';
 $_SESSION['item'][1]['trivia'] = "<p>Ammeon Solutions & Red Hat.</p> <p style='color:silver;font-size:80%;font-style:italic'>Driving Innovation Forward.</p>";
 $_SESSION['item'][1]['theme'] = 'asl';
@@ -29,7 +29,7 @@ $_SESSION['item'][1]['filename'] = 'data/images/asl/image2.jpeg';
 $_SESSION['item'][1]['rating'] = 0;
 
 $_SESSION['item'][2]['name'] = 'asl-consulting';
-$_SESSION['item'][2]['rank'] = 1;
+$_SESSION['item'][2]['rank'] = 3;
 $_SESSION['item'][2]['caption'] = 'Ammeon Solutions: Consulting';
 $_SESSION['item'][2]['trivia'] = "<p>Ammeon Solutions: Consulting.</p> <p style='color:silver;font-size:80%;font-style:italic'>Fitter Faster.</p>";
 $_SESSION['item'][2]['theme'] = 'asl';
@@ -37,7 +37,7 @@ $_SESSION['item'][2]['filename'] = 'data/images/asl/image3.jpeg';
 $_SESSION['item'][2]['rating'] = 0;
 
 $_SESSION['item'][3]['name'] = 'asl-training';
-$_SESSION['item'][3]['rank'] = 1;
+$_SESSION['item'][3]['rank'] = 4;
 $_SESSION['item'][3]['caption'] = 'Ammeon Solutions: Agile Lean Training';
 $_SESSION['item'][3]['trivia'] = "<p>Ammeon Solutions: Agile Lean Training.</p> <p style='color:silver;font-size:80%;font-style:italic'>Learn From Those Who Do It Best.</p>";
 $_SESSION['item'][3]['theme'] = 'asl';
