@@ -36,12 +36,12 @@ $_SESSION['item'][2]['theme'] = 'asl';
 $_SESSION['item'][2]['filename'] = 'data/images/asl/image4.jpeg';
 $_SESSION['item'][2]['rating'] = 5;
 
-$_SESSION['item'][2]['name'] = 'redhat-openshift';
-$_SESSION['item'][2]['rank'] = 4;
-$_SESSION['item'][2]['caption'] = 'Red Hat: OpenShift';
-$_SESSION['item'][2]['trivia'] = "<p>Red Hat: OpenShift.</p> <p style='color:silver;font-size:80%;font-style:italic'>Container Application Platform.</p>";
-$_SESSION['item'][2]['theme'] = 'asl';
-$_SESSION['item'][2]['filename'] = 'data/images/asl/image5.png';
-$_SESSION['item'][2]['rating'] = 5;
+$_SESSION['item'][3]['name'] = 'redhat-openshift';
+$_SESSION['item'][3]['rank'] = 4;
+$_SESSION['item'][3]['caption'] = 'Red Hat: OpenShift';
+$_SESSION['item'][3]['trivia'] = "<p>Red Hat: OpenShift.</p> <p style='color:silver;font-size:80%;font-style:italic'>Container Application Platform.</p>";
+$_SESSION['item'][3]['theme'] = 'asl';
+$_SESSION['item'][3]['filename'] = 'data/images/asl/image5.png';
+$_SESSION['item'][3]['rating'] = 5;
 
 ?>
